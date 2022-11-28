@@ -19,3 +19,4 @@ Ad hoc reporting tools for self-service business intelligence allow users to cre
 
 ## 4. Saves time and financial resources
 The intuitive functionality of ad hoc analysis tools eliminates the need for developers to help with queries and create reports. This saves the business money and allows IT teams to focus on other tasks.
+
