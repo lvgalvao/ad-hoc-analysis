@@ -3,7 +3,7 @@ Ad hoc analysis is a business intelligence process designed to answer a specific
 
 With ad hoc analysis, users can extract the insight they need to make better business decisions without having to involve the IT department. Typically, an ad hoc report is more visual than a standard data report, making it easy for a non-technical audience to understand and utilize.
 
-# What are the benefits of ad hoc analysis?
+# What are the benefits of ad hoc analysis? 
 Ad hoc analysis is performed by business users on an as-needed basis to address data analysis needs not met by the business's static, regular reporting. The benefits of self-service BI conducted by ad hoc analysis tools include the following:
 
 ## 1. Customizability
